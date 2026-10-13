@@ -1,0 +1,6 @@
+{
+  "name": "Flowdesk - AI CRM & Sales Workspace",
+  "description": "Premium AI-powered CRM dashboard for managing leads, pipeline, contacts, deals, activities, and AI sales intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
